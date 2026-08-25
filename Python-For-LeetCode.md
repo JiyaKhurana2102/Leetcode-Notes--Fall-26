@@ -1,4 +1,4 @@
-# 🐍 Python For LeetCode — Complete Cheat Sheet
+# Python For LeetCode — Complete Cheat Sheet
 
 > **Who this is for:** College students preparing for technical interviews who know basic Python but need to sharpen their problem-solving toolkit.
 >
