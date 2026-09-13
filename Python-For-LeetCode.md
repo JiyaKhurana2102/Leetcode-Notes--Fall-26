@@ -1,9 +1,5 @@
 # Python For LeetCode — Complete Cheat Sheet
 
-> **Who this is for:** College students preparing for technical interviews who know basic Python but need to sharpen their problem-solving toolkit.
->
-> **How to use this:** Don't memorize everything at once. Read it, bookmark it, and return to each section as you encounter new problem types. The goal is *recognition* — when you see a problem, you should instantly know which tools to reach for.
-
 ---
 
 ## Table of Contents
